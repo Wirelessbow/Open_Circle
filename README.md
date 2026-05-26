@@ -21,4 +21,4 @@ Features:
 
 The screenshot demonstrates successful execution of the automated test suite, where all validations and verifications passed without errors.
 
-<img width="1913" height="1000" alt="Login_feature_PASS" src="https://github.com/user-attachments/assets/af612427-2c68-431c-8a21-d69407d906d7" />
+![ScreenShot](src/test/resources/images/Login_feature_PASS.jpg)
